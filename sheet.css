@@ -1,0 +1,35 @@
+body{
+    background-image: url(background.jpg);
+    color: white;
+}
+
+#title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#description,#sample{
+    font-family: 'Raleway', sans-serif;
+    padding: 2% 10% 2% 10%;
+}
+
+#button, #exampleModal2{
+    text-align: center;
+    width: 100%;
+}
+
+a:link, a:active, a:hover, a:focus, a:visited{
+    color: white;
+}
+
+.post{
+    margin: 5% 2% 5% 2%;
+}
+
+#exampleModalLabel{
+    font-family: 'Montserrat', sans-serif;
+}
+
+td{
+    padding: 2% 2% 2% 2%;
+}
